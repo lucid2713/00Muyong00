@@ -610,7 +610,7 @@
 			padding: 3.5em 2.5em 3.5em 2.5em;
 		}
 
-		@media screen and (max-width: 491px) {
+		@media screen and (max-width: 736px) {
 
 			.box {
 				padding: 1em;
@@ -1940,7 +1940,7 @@
 
 		}
 
-		@media screen and (max-width: 491px) {
+		@media screen and (max-width: 736px) {
 
 			.main.fullscreen {
 				height: auto !important;
