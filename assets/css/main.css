@@ -1919,7 +1919,7 @@
 		@media screen and (max-width: 1920px) {
 
 			.main.style2 .content {
-				width: 31%;
+				width: 30%;
 			}
 
 		}
@@ -1927,7 +1927,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.main.style2 .content {
-				width: 40%;
+				width: 30%;
 			}
 
 		}
@@ -1935,7 +1935,7 @@
 		@media screen and (max-width: 1000px) {
 
 			.main.style2 .content {
-				width: 51%;
+				width: 40%;
 			}
 
 		}
